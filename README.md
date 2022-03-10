@@ -6,4 +6,6 @@
 - 🔭 I’m currently working on neural networks and time series comparisons for predicting and forecasting stock prices. 
 - 🌱 I’m currently learning R and brushing up on my query languages.
 - :smiley: My hobbies and passions are weightlifting, reading, economics, cooking, hiking and hanging out with my dogs. 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuelrahwa)[Gmail](samuelaaronrahwa@gmail.com)
+- 📫 How to reach me: 
+>> [LinkedIn](https://www.linkedin.com/in/samuelrahwa
+>> [Gmail](samuelaaronrahwa@gmail.com)
