@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning R and brushing up on my query languages.
 - :smiley: My hobbies and passions are weightlifting, reading, economics, cooking, hiking and hanging out with my dogs. 
 - 📫 How to reach me: 
->> [LinkedIn](https://www.linkedin.com/in/samuelrahwa
+>> [LinkedIn](https://www.linkedin.com/in/samuelrahwa)
 >> [Gmail](samuelaaronrahwa@gmail.com)
